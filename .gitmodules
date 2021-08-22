@@ -1,0 +1,15 @@
+[submodule "packages/ezrassor_topic_switch"]
+	path = packages/ezrassor_topic_switch
+	url = https://github.com/FlaSpaceInst/ezrassor_topic_switch
+[submodule "packages/ezrassor_keyboard_interfaces"]
+	path = packages/ezrassor_keyboard_interfaces
+	url = https://github.com/FlaSpaceInst/ezrassor_keyboard_interfaces
+[submodule "packages/ezrassor_joy_translator"]
+	path = packages/ezrassor_joy_translator
+	url = https://github.com/FlaSpaceInst/ezrassor_joy_translator
+[submodule "packages/ezrassor_controller_server"]
+	path = packages/ezrassor_controller_server
+	url = https://github.com/FlaSpaceInst/ezrassor_controller_server
+[submodule "packages/ezrassor_keyboard_controller"]
+	path = packages/ezrassor_keyboard_controller
+	url = https://github.com/FlaSpaceInst/ezrassor_keyboard_controller
